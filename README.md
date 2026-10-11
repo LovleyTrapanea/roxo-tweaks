@@ -16,7 +16,7 @@ A themed Windows tweaking utility with a soft Halloween look, built with PowerSh
 Open PowerShell as Administrator and run:
 
 ```
-irm https://raw.githubusercontent.com/USERNAME/roxo-tweaks/main/RoxoTweaks.ps1 | iex
+irm https://raw.githubusercontent.com/LovleyTrapanea/roxo-tweaks/main/RoxoTweaks.ps1 | iex
 ```
 
 ## Requirements
